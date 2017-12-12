@@ -1,0 +1,7 @@
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\obj\Debug\Factorial.exe
+C:\Workspace\Git\GamesAndAlgorithms\Factorial\Factorial\obj\Debug\Factorial.pdb
