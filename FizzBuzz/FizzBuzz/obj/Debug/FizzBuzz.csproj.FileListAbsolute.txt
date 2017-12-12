@@ -1,0 +1,6 @@
+C:\Workspace\Git\GamesAndAlgorithms\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Workspace\Git\GamesAndAlgorithms\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Workspace\Git\GamesAndAlgorithms\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Workspace\Git\GamesAndAlgorithms\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

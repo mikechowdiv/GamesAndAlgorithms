@@ -1,0 +1,6 @@
+C:\Workspace\Git\GamesAndAlgorithms\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Workspace\Git\GamesAndAlgorithms\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Workspace\Git\GamesAndAlgorithms\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Workspace\Git\GamesAndAlgorithms\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
