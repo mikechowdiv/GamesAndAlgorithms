@@ -1,0 +1,10 @@
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.FrmTestApp.resources
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Workspace\Git\GamesAndAlgorithms\TestApp\TestApp\obj\Debug\TestApp.pdb

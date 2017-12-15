@@ -1,0 +1,7 @@
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\bin\Debug\InvoiceClass.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\bin\Debug\InvoiceClass.exe
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\bin\Debug\InvoiceClass.pdb
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\obj\Debug\InvoiceClass.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\obj\Debug\InvoiceClass.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\obj\Debug\InvoiceClass.exe
+C:\Workspace\Git\GamesAndAlgorithms\InvoiceClass\InvoiceClass\obj\Debug\InvoiceClass.pdb

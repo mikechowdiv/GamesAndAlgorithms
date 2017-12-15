@@ -1,0 +1,7 @@
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\bin\Debug\CreatingTapeClass.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\bin\Debug\CreatingTapeClass.exe
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\bin\Debug\CreatingTapeClass.pdb
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\obj\Debug\CreatingTapeClass.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\obj\Debug\CreatingTapeClass.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\obj\Debug\CreatingTapeClass.exe
+C:\Workspace\Git\GamesAndAlgorithms\CreatingTapeClass\CreatingTapeClass\obj\Debug\CreatingTapeClass.pdb

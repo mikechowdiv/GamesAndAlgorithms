@@ -1,0 +1,7 @@
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\bin\Debug\SavingAcct.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\bin\Debug\SavingAcct.exe
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\bin\Debug\SavingAcct.pdb
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\obj\Debug\SavingAcct.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\obj\Debug\SavingAcct.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\obj\Debug\SavingAcct.exe
+C:\Workspace\Git\GamesAndAlgorithms\SavingAcct\SavingAcct\obj\Debug\SavingAcct.pdb

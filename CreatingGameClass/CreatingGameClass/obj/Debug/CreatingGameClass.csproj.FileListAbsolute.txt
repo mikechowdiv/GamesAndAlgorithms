@@ -1,0 +1,7 @@
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\bin\Debug\CreatingGameClass.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\bin\Debug\CreatingGameClass.exe
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\bin\Debug\CreatingGameClass.pdb
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\obj\Debug\CreatingGameClass.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\obj\Debug\CreatingGameClass.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\obj\Debug\CreatingGameClass.exe
+C:\Workspace\Git\GamesAndAlgorithms\CreatingGameClass\CreatingGameClass\obj\Debug\CreatingGameClass.pdb

@@ -1,0 +1,7 @@
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\bin\Debug\ConstructorFailure.exe.config
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\bin\Debug\ConstructorFailure.exe
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\bin\Debug\ConstructorFailure.pdb
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\obj\Debug\ConstructorFailure.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\obj\Debug\ConstructorFailure.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\obj\Debug\ConstructorFailure.exe
+C:\Workspace\Git\GamesAndAlgorithms\ConstructorFailure\ConstructorFailure\obj\Debug\ConstructorFailure.pdb
